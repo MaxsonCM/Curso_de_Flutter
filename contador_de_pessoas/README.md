@@ -1,4 +1,4 @@
-# contado_de_pessoas
+# contador_de_pessoas
 
 A new Flutter application.
 
